@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1041997514539",
+    "project_id": "authsignin-c1fbc",
+    "storage_bucket": "authsignin-c1fbc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041997514539:android:92783e66d322e0fd17e76e",
+        "android_client_info": {
+          "package_name": "com.example.dermatalogyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ltLmAbIEfnERZ0b-PxkfpKUTiOGPfDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041997514539:android:02c8aec86c580f9d17e76e",
+        "android_client_info": {
+          "package_name": "com.example.habitrackerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ltLmAbIEfnERZ0b-PxkfpKUTiOGPfDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
